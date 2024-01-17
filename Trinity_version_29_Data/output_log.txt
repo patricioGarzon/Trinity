@@ -1,0 +1,53 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon RX 6800 (ID=0x73bf)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\Ionic.Zlib.dll (this message is harmless)
+Loading C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\Ionic.Zlib.dll into Unity Child Domain
+Platform assembly: C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\NSpeex.dll (this message is harmless)
+Loading C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\NSpeex.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+desktop: 1920x1080 60Hz; virtual: 5760x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nicox\Downloads\Trinity\Trinity\Trinity_version_29_Data\Managed\System.dll (this message is harmless)
+WwiseUnity: Initialize sound engine ...
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AkInitializer:Awake() (at C:\Users\gd39brayden\Trinity\Assets\Wwise\Deployment\Components\AkInitializer.cs:88)
+ 
+(Filename: C:/Users/gd39brayden/Trinity/Assets/Wwise/Deployment/Components/AkInitializer.cs Line: 88)
+
+WwiseUnity: Sound engine initialized.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AkInitializer:Awake() (at C:\Users\gd39brayden\Trinity\Assets\Wwise\Deployment\Components\AkInitializer.cs:150)
+ 
+(Filename: C:/Users/gd39brayden/Trinity/Assets/Wwise/Deployment/Components/AkInitializer.cs Line: 150)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 8cc -> priority: 1 
+  Thread -> id: f34 -> priority: 1 
+  Thread -> id: c40 -> priority: 1 
+  Thread -> id: 3b38 -> priority: 1 
+  Thread -> id: 13a8 -> priority: 1 
+  Thread -> id: 13d0 -> priority: 1 
+Crash!!!

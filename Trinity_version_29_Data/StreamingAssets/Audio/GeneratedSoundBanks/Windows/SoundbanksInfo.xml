@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" SchemaVersion="10" SoundbankVersion="112">
+	<RootPaths>
+		<ProjectRoot>C:\Users\gd39duncan\Trinity\VFS_Depot\Projects\Trinity\Assets\WwiseProjectFolder\Trinity_Wwise_Project\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\gd39duncan\Trinity\VFS_Depot\Projects\Trinity\Assets\WwiseProjectFolder\Trinity_Wwise_Project\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\gd39duncan\Trinity\VFS_Depot\Projects\Trinity\Assets\WwiseProjectFolder\Trinity_Wwise_Project\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\gd39duncan\Trinity\VFS_Depot\Projects\Trinity\Assets\WwiseProjectFolder\Trinity_Wwise_Project\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1526997315" Language="SFX">
+			<ShortName>Trinity_SoundBanks</ShortName>
+			<Path>Trinity_SoundBanks.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1017222595" Name="LowHealth"/>
+				<Event Id="1286977679" Name="Play_Aiming"/>
+				<Event Id="2959533290" Name="Play_Amb"/>
+				<Event Id="1389229848" Name="Play_BlueBaseAllmostDestroyedok_01"/>
+				<Event Id="318055135" Name="Play_BlueBaseUnderAttackok_01"/>
+				<Event Id="125091212" Name="Play_BlueTeamDronesok_01"/>
+				<Event Id="1648486139" Name="Play_BlueTeamVictoryok_01"/>
+				<Event Id="140749424" Name="Play_BulletImpact"/>
+				<Event Id="2552117268" Name="Play_BulletImpactBody"/>
+				<Event Id="4217989764" Name="Play_BulletImpactEnemy"/>
+				<Event Id="2842972339" Name="Play_BulletImpactShield"/>
+				<Event Id="3136062220" Name="Play_BulletImpactWall"/>
+				<Event Id="3544605487" Name="Play_captureObjectivestoDeployDronesok_03"/>
+				<Event Id="2781525929" Name="Play_CapturePointActivatedok_01"/>
+				<Event Id="1058032625" Name="Play_CapturePointChangeControl"/>
+				<Event Id="612954406" Name="Play_CapturePointEntry"/>
+				<Event Id="1523662489" Name="Play_DeathSound"/>
+				<Event Id="4128609527" Name="Play_DoubleKillok"/>
+				<Event Id="3854155799" Name="Play_Footsteps"/>
+				<Event Id="989083242" Name="Play_Mx_Tnty_UI_Menu"/>
+				<Event Id="226463801" Name="Play_RedBaseAllmostDestroyedok_03"/>
+				<Event Id="2545256020" Name="Play_RedBasUnderAttack1"/>
+				<Event Id="3958441767" Name="Play_RedTeamDronesok_01"/>
+				<Event Id="511764217" Name="Play_RedTeamVictoryok_02"/>
+				<Event Id="1920272688" Name="Play_Rifle"/>
+				<Event Id="2441941150" Name="Play_SFX_Ability_Beam"/>
+				<Event Id="3817237199" Name="Play_SFX_Tnity_OverHeat"/>
+				<Event Id="2146450754" Name="Play_SFX_Tnty_Orb_Pickup"/>
+				<Event Id="2004900905" Name="Play_SFX_Tnty_StunActivated"/>
+				<Event Id="2250680610" Name="Play_SFX_TP"/>
+				<Event Id="2984203512" Name="Play_SFX_Trinity_Gunshot"/>
+				<Event Id="1820418589" Name="Play_SFX_Trinity_Shield"/>
+				<Event Id="2618511193" Name="Play_SFX_Trinity_UI_Confirm"/>
+				<Event Id="3478616360" Name="Play_SFX_Trinity_UI_Scroll"/>
+				<Event Id="2340494341" Name="Play_SFX_Trinity_WeaponOperative"/>
+				<Event Id="3849153871" Name="Play_Sniper"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="15344802" Language="SFX">
+					<ShortName>SFX_Trinity_UI_Scroll.wav</ShortName>
+					<Path>SFX\SFX_Trinity_UI_Scroll_DDC98EF4.wem</Path>
+				</File>
+				<File Id="17077072" Language="SFX">
+					<ShortName>Trinity_BG.wav</ShortName>
+					<Path>SFX\Trinity_BG_DDC98EF4.wem</Path>
+				</File>
+				<File Id="59119766" Language="SFX">
+					<ShortName>SFX_Tnty_StunActivated.wav</ShortName>
+					<Path>SFX\SFX_Tnty_StunActivated_CA72B21D.wem</Path>
+				</File>
+				<File Id="61892542" Language="SFX">
+					<ShortName>DeathSound.wav</ShortName>
+					<Path>SFX\DeathSound_DDC98EF4.wem</Path>
+				</File>
+				<File Id="65200511" Language="SFX">
+					<ShortName>SFX_Tnty_Orb_Pickup.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Orb_Pickup_DDC98EF4.wem</Path>
+				</File>
+				<File Id="70248172" Language="SFX">
+					<ShortName>RedBasUnderAttack1.wav</ShortName>
+					<Path>SFX\RedBasUnderAttack1_DDC98EF4.wem</Path>
+				</File>
+				<File Id="70635809" Language="SFX">
+					<ShortName>Bullet_Impact_Character_Armor1.wav</ShortName>
+					<Path>SFX\Bullet_Impact_Character_Armor1_DDC98EF4.wem</Path>
+				</File>
+				<File Id="93123507" Language="SFX">
+					<ShortName>Bullet_impact_Shield0.wav</ShortName>
+					<Path>SFX\Bullet_impact_Shield0_DDC98EF4.wem</Path>
+				</File>
+				<File Id="94734010" Language="SFX">
+					<ShortName>BlueBaseAllmostDestroyedok_01.wav</ShortName>
+					<Path>SFX\BlueBaseAllmostDestroyedok_01_DDC98EF4.wem</Path>
+				</File>
+				<File Id="101623014" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_14.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_14_DDC98EF4.wem</Path>
+				</File>
+				<File Id="110794114" Language="SFX">
+					<ShortName>FS_Grass_Run_R_05.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_R_05_DDC98EF4.wem</Path>
+				</File>
+				<File Id="113988591" Language="SFX">
+					<ShortName>SFX_flag_stop.wav</ShortName>
+					<Path>SFX\SFX_flag_stop_DDC98EF4.wem</Path>
+				</File>
+				<File Id="118927363" Language="SFX">
+					<ShortName>SFX_Tnty_Aiming_01.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Aiming_01_DDC98EF4.wem</Path>
+				</File>
+				<File Id="122654476" Language="SFX">
+					<ShortName>Impact_concrete_7a.wav</ShortName>
+					<Path>SFX\Impact_concrete_7a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="130849416" Language="SFX">
+					<ShortName>SF-CK Ambience Room High.L.wav</ShortName>
+					<Path>SFX\SF-CK Ambience Room High.L_C1225F82.wem</Path>
+				</File>
+				<File Id="134576030" Language="SFX">
+					<ShortName>FS_Grass_Run_R_07.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_R_07_DDC98EF4.wem</Path>
+				</File>
+				<File Id="154830401" Language="SFX">
+					<ShortName>SFX_Tnty_Aiming_03.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Aiming_03_DDC98EF4.wem</Path>
+				</File>
+				<File Id="154895810" Language="SFX">
+					<ShortName>SFX_Trinity_Shield.wav</ShortName>
+					<Path>SFX\SFX_Trinity_Shield_72261B8B.wem</Path>
+				</File>
+				<File Id="158977176" Language="SFX">
+					<ShortName>impact_monstar_2a.wav</ShortName>
+					<Path>SFX\impact_monstar_2a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="165251076" Language="SFX">
+					<ShortName>Mx_Tnty_UI_Menu.wav</ShortName>
+					<Path>SFX\Mx_Tnty_UI_Menu_93B723B2.wem</Path>
+				</File>
+				<File Id="165553460" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_09.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_09_DDC98EF4.wem</Path>
+				</File>
+				<File Id="170636220" Language="SFX">
+					<ShortName>Impact_concrete_1a.wav</ShortName>
+					<Path>SFX\Impact_concrete_1a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="171859280" Language="SFX">
+					<ShortName>SFX_Ability_Beam.wav</ShortName>
+					<Path>SFX\SFX_Ability_Beam_CA72B21D.wem</Path>
+				</File>
+				<File Id="223356559" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_16.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_16_DDC98EF4.wem</Path>
+				</File>
+				<File Id="230333016" Language="SFX">
+					<ShortName>Bullet_Impact_Character_Armor2.wav</ShortName>
+					<Path>SFX\Bullet_Impact_Character_Armor2_DDC98EF4.wem</Path>
+				</File>
+				<File Id="238180146" Language="SFX">
+					<ShortName>CapturePointActivatedok_01.wav</ShortName>
+					<Path>SFX\CapturePointActivatedok_01_DDC98EF4.wem</Path>
+				</File>
+				<File Id="247941313" Language="SFX">
+					<ShortName>Impact_metalwall_6a.wav</ShortName>
+					<Path>SFX\Impact_metalwall_6a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="266428122" Language="SFX">
+					<ShortName>SFX_Trinity_UI_Confirm.wav</ShortName>
+					<Path>SFX\SFX_Trinity_UI_Confirm_DDC98EF4.wem</Path>
+				</File>
+				<File Id="308332474" Language="SFX">
+					<ShortName>Bullet_impact_Shield2.wav</ShortName>
+					<Path>SFX\Bullet_impact_Shield2_DDC98EF4.wem</Path>
+				</File>
+				<File Id="322914327" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_17.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_17_DDC98EF4.wem</Path>
+				</File>
+				<File Id="329234348" Language="SFX">
+					<ShortName>SF-CK Ambience Drone Lo_4.L.wav</ShortName>
+					<Path>SFX\SF-CK Ambience Drone Lo_4.L_5DD58183.wem</Path>
+				</File>
+				<File Id="335308832" Language="SFX">
+					<ShortName>Impact_metalwall_5a.wav</ShortName>
+					<Path>SFX\Impact_metalwall_5a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="388522715" Language="SFX">
+					<ShortName>FS_Grass_Run_L_06.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_L_06_DDC98EF4.wem</Path>
+				</File>
+				<File Id="397084009" Language="SFX">
+					<ShortName>Impact_concrete_5a.wav</ShortName>
+					<Path>SFX\Impact_concrete_5a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="418836431" Language="SFX">
+					<ShortName>SFX_TP.wav</ShortName>
+					<Path>SFX\SFX_TP_CA72B21D.wem</Path>
+				</File>
+				<File Id="434308119" Language="SFX">
+					<ShortName>Impact_concrete_3a.wav</ShortName>
+					<Path>SFX\Impact_concrete_3a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="445827827" Language="SFX">
+					<ShortName>SF-CK Ambience Room Hig_2.L.wav</ShortName>
+					<Path>SFX\SF-CK Ambience Room Hig_2.L_52F9E672.wem</Path>
+				</File>
+				<File Id="470238575" Language="SFX">
+					<ShortName>Impact_metalwall_1a.wav</ShortName>
+					<Path>SFX\Impact_metalwall_1a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="494230993" Language="SFX">
+					<ShortName>SF-CK Ambience Room Hig_1.L.wav</ShortName>
+					<Path>SFX\SF-CK Ambience Room Hig_1.L_1AC72CA8.wem</Path>
+				</File>
+				<File Id="494987273" Language="SFX">
+					<ShortName>FS_Grass_Run_R_06.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_R_06_DDC98EF4.wem</Path>
+				</File>
+				<File Id="501614441" Language="SFX">
+					<ShortName>Impact_concrete_6a.wav</ShortName>
+					<Path>SFX\Impact_concrete_6a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="504279861" Language="SFX">
+					<ShortName>FS_Grass_Run_L_01.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_L_01_DDC98EF4.wem</Path>
+				</File>
+				<File Id="508641851" Language="SFX">
+					<ShortName>SFX_Trinity_Lowhealth.wav</ShortName>
+					<Path>SFX\SFX_Trinity_Lowhealth_EE1C4E0E.wem</Path>
+				</File>
+				<File Id="512732244" Language="SFX">
+					<ShortName>FS_Grass_Run_R_01.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_R_01_DDC98EF4.wem</Path>
+				</File>
+				<File Id="539688942" Language="SFX">
+					<ShortName>BlueBaseUnderAttackok_01.wav</ShortName>
+					<Path>SFX\BlueBaseUnderAttackok_01_DDC98EF4.wem</Path>
+				</File>
+				<File Id="552923797" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_10.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_10_DDC98EF4.wem</Path>
+				</File>
+				<File Id="590185293" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_02.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_02_DDC98EF4.wem</Path>
+				</File>
+				<File Id="604947572" Language="SFX">
+					<ShortName>impact_monstar_3a.wav</ShortName>
+					<Path>SFX\impact_monstar_3a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="607448834" Language="SFX">
+					<ShortName>FS_Grass_Run_L_02.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_L_02_DDC98EF4.wem</Path>
+				</File>
+				<File Id="616753253" Language="SFX">
+					<ShortName>SF-CK Power Atmo 02.L.wav</ShortName>
+					<Path>SFX\SF-CK Power Atmo 02.L_D2BE4C47.wem</Path>
+				</File>
+				<File Id="623584340" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_11.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_11_DDC98EF4.wem</Path>
+				</File>
+				<File Id="629534624" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_12.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_12_DDC98EF4.wem</Path>
+				</File>
+				<File Id="642842218" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_18.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_18_DDC98EF4.wem</Path>
+				</File>
+				<File Id="652188248" Language="SFX">
+					<ShortName>SFX_Tnty_Aiming_02.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Aiming_02_DDC98EF4.wem</Path>
+				</File>
+				<File Id="668445020" Language="SFX">
+					<ShortName>Bullet_impact_Shield1.wav</ShortName>
+					<Path>SFX\Bullet_impact_Shield1_DDC98EF4.wem</Path>
+				</File>
+				<File Id="670438342" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_05.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_05_DDC98EF4.wem</Path>
+				</File>
+				<File Id="671838304" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_04.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_04_DDC98EF4.wem</Path>
+				</File>
+				<File Id="674102189" Language="SFX">
+					<ShortName>FS_Grass_Run_R_03.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_R_03_DDC98EF4.wem</Path>
+				</File>
+				<File Id="678286996" Language="SFX">
+					<ShortName>FS_Grass_Run_L_04.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_L_04_DDC98EF4.wem</Path>
+				</File>
+				<File Id="683991442" Language="SFX">
+					<ShortName>BlueTeamDronesok_01.wav</ShortName>
+					<Path>SFX\BlueTeamDronesok_01_DDC98EF4.wem</Path>
+				</File>
+				<File Id="708939606" Language="SFX">
+					<ShortName>RedBaseAllmostDestroyedok_03.wav</ShortName>
+					<Path>SFX\RedBaseAllmostDestroyedok_03_DDC98EF4.wem</Path>
+				</File>
+				<File Id="713078937" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_15.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_15_DDC98EF4.wem</Path>
+				</File>
+				<File Id="750616054" Language="SFX">
+					<ShortName>FS_Grass_Run_L_05.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_L_05_DDC98EF4.wem</Path>
+				</File>
+				<File Id="754534187" Language="SFX">
+					<ShortName>FS_Grass_Run_L_07.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_L_07_DDC98EF4.wem</Path>
+				</File>
+				<File Id="761517259" Language="SFX">
+					<ShortName>RedTeamDronesok_01.wav</ShortName>
+					<Path>SFX\RedTeamDronesok_01_DDC98EF4.wem</Path>
+				</File>
+				<File Id="762654019" Language="SFX">
+					<ShortName>Bullet_impact_Shield3.wav</ShortName>
+					<Path>SFX\Bullet_impact_Shield3_DDC98EF4.wem</Path>
+				</File>
+				<File Id="787203650" Language="SFX">
+					<ShortName>SFX_Trinity_WeaponOperative.wav</ShortName>
+					<Path>SFX\SFX_Trinity_WeaponOperative_22E83568.wem</Path>
+				</File>
+				<File Id="797792576" Language="SFX">
+					<ShortName>FS_Grass_Run_R_09.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_R_09_DDC98EF4.wem</Path>
+				</File>
+				<File Id="819738424" Language="SFX">
+					<ShortName>captureObjectivestoDeployDronesok_03.wav</ShortName>
+					<Path>SFX\captureObjectivestoDeployDronesok_03_DDC98EF4.wem</Path>
+				</File>
+				<File Id="844355550" Language="SFX">
+					<ShortName>Bullet_Impact_Character_Armor3.wav</ShortName>
+					<Path>SFX\Bullet_Impact_Character_Armor3_DDC98EF4.wem</Path>
+				</File>
+				<File Id="885111581" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_08.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_08_DDC98EF4.wem</Path>
+				</File>
+				<File Id="887663052" Language="SFX">
+					<ShortName>Impact_concrete_2a.wav</ShortName>
+					<Path>SFX\Impact_concrete_2a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="890757293" Language="SFX">
+					<ShortName>DoubleKillok.wav</ShortName>
+					<Path>SFX\DoubleKillok_DDC98EF4.wem</Path>
+				</File>
+				<File Id="894030397" Language="SFX">
+					<ShortName>FS_Grass_Run_R_04.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_R_04_DDC98EF4.wem</Path>
+				</File>
+				<File Id="894385177" Language="SFX">
+					<ShortName>FS_Grass_Run_L_08.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_L_08_DDC98EF4.wem</Path>
+				</File>
+				<File Id="905266575" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_03.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_03_DDC98EF4.wem</Path>
+				</File>
+				<File Id="907868165" Language="SFX">
+					<ShortName>Impact_concrete_4a.wav</ShortName>
+					<Path>SFX\Impact_concrete_4a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="908830799" Language="SFX">
+					<ShortName>RedTeamVictoryok_02.wav</ShortName>
+					<Path>SFX\RedTeamVictoryok_02_DDC98EF4.wem</Path>
+				</File>
+				<File Id="915657921" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_07.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_07_DDC98EF4.wem</Path>
+				</File>
+				<File Id="929565271" Language="SFX">
+					<ShortName>FS_Grass_Run_L_03.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_L_03_DDC98EF4.wem</Path>
+				</File>
+				<File Id="931511606" Language="SFX">
+					<ShortName>FS_Grass_Run_R_02.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_R_02_DDC98EF4.wem</Path>
+				</File>
+				<File Id="932994338" Language="SFX">
+					<ShortName>SFX_Trinity_WeaponOverheat.wav</ShortName>
+					<Path>SFX\SFX_Trinity_WeaponOverheat_DDC98EF4.wem</Path>
+				</File>
+				<File Id="933275656" Language="SFX">
+					<ShortName>FS_Grass_Run_L_09.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_L_09_DDC98EF4.wem</Path>
+				</File>
+				<File Id="939265999" Language="SFX">
+					<ShortName>BGS.L.wav</ShortName>
+					<Path>SFX\BGS.L_4A30E9AE.wem</Path>
+				</File>
+				<File Id="950312379" Language="SFX">
+					<ShortName>impact_monstar_1a.wav</ShortName>
+					<Path>SFX\impact_monstar_1a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="973980435" Language="SFX">
+					<ShortName>SFX_Tnty_Gak_06.wav</ShortName>
+					<Path>SFX\SFX_Tnty_Gak_06_DDC98EF4.wem</Path>
+				</File>
+				<File Id="976581018" Language="SFX">
+					<ShortName>CapturePointChangeControl.wav</ShortName>
+					<Path>SFX\CapturePointChangeControl_DDC98EF4.wem</Path>
+				</File>
+				<File Id="979283623" Language="SFX">
+					<ShortName>FS_Grass_Run_R_08.wav</ShortName>
+					<Path>SFX\FS_Grass_Run_R_08_DDC98EF4.wem</Path>
+				</File>
+				<File Id="1000229215" Language="SFX">
+					<ShortName>Impact_metalwall_2a.wav</ShortName>
+					<Path>SFX\Impact_metalwall_2a_DDC98EF4.wem</Path>
+				</File>
+				<File Id="1006140321" Language="SFX">
+					<ShortName>BlueTeamVictoryok_01.wav</ShortName>
+					<Path>SFX\BlueTeamVictoryok_01_DDC98EF4.wem</Path>
+				</File>
+				<File Id="1021474818" Language="SFX">
+					<ShortName>SFX_Trinity_Gunshot.wav</ShortName>
+					<Path>SFX\SFX_Trinity_Gunshot_C640C7CC.wem</Path>
+				</File>
+				<File Id="1034080481" Language="SFX">
+					<ShortName>Bullet_Impact_Character_Armor0.wav</ShortName>
+					<Path>SFX\Bullet_Impact_Character_Armor0_DDC98EF4.wem</Path>
+				</File>
+				<File Id="1057929455" Language="SFX">
+					<ShortName>Trinity Sniper shot.wav</ShortName>
+					<Path>SFX\Trinity Sniper shot_CA72B21D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

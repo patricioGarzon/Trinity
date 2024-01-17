@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1712447815	Play_HawkCry			\Default Work Unit\Play_HawkCry	
+	2659198924	Play_Frog			\Default Work Unit\Play_Frog	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	477757604	Frog	C:\Users\gd39duncan\Trinity\VFS_Depot\Projects\Trinity\Assets\WwiseProjectFolder\Trinity_Wwise_Project\.cache\Windows\SFX\Frog_DDC98EF4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Frog		718912
+	640155737	HawkCry	C:\Users\gd39duncan\Trinity\VFS_Depot\Projects\Trinity\Assets\WwiseProjectFolder\Trinity_Wwise_Project\.cache\Windows\SFX\HawkCry_DDC98EF4.wem		\Actor-Mixer Hierarchy\Default Work Unit\HawkCry		712768
+
